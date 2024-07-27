@@ -24,12 +24,12 @@ Developed a functional clone of the Vercel platform, showcasing the deployment a
 - Node.js
 - npm or yarn
   
-##Commands
+## Commands
 npm install
-# or
+or
 yarn install
 
-##Contact
+## Contact
 
 Chandan Basavaraj Nooli
 Email: chandan.nooli@gmail.com
