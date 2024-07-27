@@ -5,10 +5,7 @@ Developed a functional clone of the Vercel platform, showcasing the deployment a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -32,7 +29,7 @@ npm install
 # or
 yarn install
 
-Contact
+##Contact
 
 Chandan Basavaraj Nooli
 Email: chandan.nooli@gmail.com
